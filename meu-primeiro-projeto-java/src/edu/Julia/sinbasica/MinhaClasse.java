@@ -1,3 +1,4 @@
+package edu.Julia.sinbasica;
 public class MinhaClasse {
 public static void main (String [] args){
     String primeiroNome = "Júlia";
@@ -13,3 +14,5 @@ public static void main (String [] args){
 
 
 }
+ 
+
